@@ -1,0 +1,19 @@
+ * {padding:0px; margin:0px;}
+  p {padding:5px 10px 10px 5px;}
+.container {width:960px; margin-left:auto; margin-right:auto;}
+  .banner {width:960px;}
+  .drop-nav {width:960px; height:30px; margin-left:auto; margin-right:auto;background-color:black}
+  .drop-nav ul {list-style: none;padding: 0px;margin: 0px;float:left;background: black;}
+  .drop-nav ul li {display: block;position: relative;float: left;border:1px solid #000}
+  .drop-nav ul li ul {display: none;}
+ .drop-nav ul li a {display: block;background: black;padding: 0px 10px 5px 5px;text-decoration: none; white-space: nowrap;color: white;}
+  .drop-nav ul li a:hover {background: blue;}
+  .drop-nav ul li ul li a:hover {background: green;}
+  .drop-nav ul li:hover ul {display: block; position: absolute;}
+ .drop-nav ul li:hover ul li a:hover{color: black;}
+  
+  .drop-nav ul li a {padding:4px 20px 4px 2px;}
+
+    .footer {clear:left; background-color:black;color:white; text-align: center;width:900px}
+	
+	
