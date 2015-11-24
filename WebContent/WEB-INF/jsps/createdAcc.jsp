@@ -18,7 +18,7 @@
 <div>
 <%@ include file="header.jsp" %>
  </div>
-	<div class="col-md-6 col-md-offset-3">
+	<div class="col-md-8">
 	<h4>You Are Successfully Created Account</h4>
 		<table class="table table-striped">
 			<tr>
